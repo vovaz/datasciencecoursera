@@ -1,6 +1,7 @@
-## This is a markdown file
-# First level up
-Shell-code example follows
+# Upper level
+## This is a markdown file (next to upper level)
+### Yet another level down
+Shell-code example follows:
 ```sh
 apt-get install r-base
 ```
